@@ -10,7 +10,7 @@ We will of corse look at your code, but the most important for us is to undertan
 We don't expect a finnished solution after these four hours you will spend on this code but rather this four hours is a good time for you to get familliar with the code and solution to get a good enough understanding of the solution to be able to have a discussion with us regarding the pros and cons of this solution and of code in general.
 
 ## Language, Frameworks and libs
-The code test is a javascript based test
+The code test is a javascript based test, but you will get bonus points if you start to refactor it to typeScript.
 
 ### NEXT JS
 Built with Next js. Next js is an open-source development framework built on top of Node. js enabling React based web applications functionalities such as server-side rendering and generating static websites.
